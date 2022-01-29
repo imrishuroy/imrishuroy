@@ -11,7 +11,7 @@
 - 🔭 Passonate about developing new technology.
 - 🌱 I’m currently learning everything 🤣
 - 👯 Looking to write more articles on Medium.
-- 🥅 2020 Goals: Contribute more to Open Source projects.
+- 🥅 2022 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to listen to music.
 - 💬 Let's talk about Flutter or any tech related stuff.
 
