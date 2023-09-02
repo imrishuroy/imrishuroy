@@ -4,7 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/imrishuroy?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fimrishuroy&screen_name=imrishuroy)
 
 
-## I'm a Student, Developer, and Writer!!
+## I'm a Learner, Developer, and Writer!!
 
 
 - 🔭 Passionate about developing new technology.
@@ -18,7 +18,6 @@
 ### Connect with me:
 
 
-[<img align="left" alt="sixteenbrains.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="imrishuroy | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="imrishuroy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="imrishuroy | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -42,18 +41,7 @@
 
 ### 📕 Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
 - [What is Flutter…? 🤔](https://medium.com/@imrishuroy/what-is-flutter-98fcbbc67e9e)
-
-<!-- BLOG-POST-LIST:END -->
-
-<!-- ➡️ [read more...](https://medium.com/@imrishuroy) -->
-
-<details>
-  
-  [![Rishu's GitHub stats](https://github-readme-stats.vercel.app/api?username=imrishuroy)](https://github.com/anuraghazra/github-readme-stats)
-
-</details>
 
 [twitter]: https://twitter.com/imrishuroy
 [instagram]: https://instagram.com/imrishuroy
