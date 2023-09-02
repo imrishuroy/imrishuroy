@@ -1,19 +1,18 @@
 ### Hi there, I'm Rishu - aka [SixteenBrains][website] 👋
 
 
-[![Website](https://img.shields.io/website?label=sixteenbrains.com&style=for-the-badge&url=https%3A%2F%2Fsixteenbrains.com)](https://sixteenbrains.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/imrishuroy?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fimrishuroy&screen_name=imrishuroy)
 
 
-## I'm a Student, Developer, and Writter!!
+## I'm a Student, Developer, and Writer!!
 
 
-- 🔭 Passonate about developing new technology.
+- 🔭 Passionate about developing new technology.
 - 🌱 I’m currently learning everything 🤣
 - 👯 Looking to write more articles on Medium.
-- 🥅 2022 Goals: Contribute more to Open Source projects.
+- 🥅 2023 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to listen to music.
-- 💬 Let's talk about Flutter or any tech related stuff.
+- 💬 Let's talk about Flutter or any tech-related stuff.
 
 
 ### Connect with me:
@@ -51,13 +50,11 @@
 <!-- ➡️ [read more...](https://medium.com/@imrishuroy) -->
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="imrishuroy's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=imrishuroy&show_icons=true&hide_border=true" />
+  
+  [![Rishu's GitHub stats](https://github-readme-stats.vercel.app/api?username=imrishuroy)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
-[website]: https://sixteenbrains.com
 [twitter]: https://twitter.com/imrishuroy
 [instagram]: https://instagram.com/imrishuroy
 [linkedin]: https://linkedin.com/in/imrishuroy
