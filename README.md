@@ -1,4 +1,4 @@
-### Hi there, I'm Rishu - aka [SixteenBrains][website] 👋
+### Hi there, I'm Rishu👋
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/imrishuroy?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fimrishuroy&screen_name=imrishuroy)
