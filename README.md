@@ -39,8 +39,9 @@
 <br /> 
 <br />
 
-<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/imrishuroy/Images/main/icons8-mysql-240.png" />
+<img align="left" alt="GitHub" width="38px" src="https://raw.githubusercontent.com/imrishuroy/Images/main/icons8-mysql-240.png" />
 <img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/imrishuroy/Images/main/icons8-postgresql-480.png" />
+<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/imrishuroy/Images/main/MongoDB_Logomark_SpringGreen.png" />
 
 <br />
 <br /> 
