@@ -34,13 +34,7 @@
 <img align="left" alt="iOS" width="32px" src="https://raw.githubusercontent.com/imrishuroy/Images/main/icons8-ios-480.png" />
 <img align="left" alt="Dart" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />
 <img align="left" alt="Java" width="32px" src="https://raw.githubusercontent.com/imrishuroy/Images/main/icons8-java-480.png" />
-
-
-
-<br /> 
-<br />
-
-<img align="left" alt="MySQL" width="38px" src="https://raw.githubusercontent.com/imrishuroy/Images/main/icons8-mysql-240.png" />
+<img align="left" alt="MySQL" width="32px" src="https://raw.githubusercontent.com/imrishuroy/Images/main/icons8-mysql-240.png" />
 <img align="left" alt="PostgresSQL" width="24px" src="https://raw.githubusercontent.com/imrishuroy/Images/main/icons8-postgresql-480.png" />
 <img align="left" alt="MongoDB" width="32px" src="https://raw.githubusercontent.com/imrishuroy/Images/main/mongodb.png" />
 <img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
