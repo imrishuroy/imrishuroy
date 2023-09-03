@@ -23,7 +23,7 @@
 [<img align="left" alt="imrishuroy | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-<br />
+
 
 
 ### Languages and Tools:
@@ -45,7 +45,6 @@
 <img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/imrishuroy/Images/main/icons8-github-200.png" />
 
 
-<br />
 
 ### 📕 Blog Posts
 
