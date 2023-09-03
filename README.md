@@ -49,7 +49,7 @@
 
 
 <img align="left" alt="git" width="32px" src="https://raw.githubusercontent.com/imrishuroy/Images/main/icons8-git-480.png" />
-<img align="left" alt="GitHub" width="28px" src="https://raw.githubusercontent.com/imrishuroy/Images/main/icons8-github-480.png" />
+<img align="left" alt="GitHub" width="28px" src="https://raw.githubusercontent.com/imrishuroy/Images/main/icons8-github-200.png" />
 
 
 <br />
