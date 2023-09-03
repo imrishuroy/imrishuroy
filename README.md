@@ -24,7 +24,7 @@
 
 
 
-<be>
+<br>
 <br>
 
 ### Languages and Tools:
@@ -45,9 +45,7 @@
 <img align="left" alt="git" width="32px" src="https://raw.githubusercontent.com/imrishuroy/Images/main/icons8-git-480.png" />
 <img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/imrishuroy/Images/main/icons8-github-200.png" />
 
-
-<br>
-<br>
+<br/>
 <br />
 
 ### Blog Posts
