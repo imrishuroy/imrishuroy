@@ -41,7 +41,7 @@
 
 <img align="left" alt="MySQL" width="38px" src="https://raw.githubusercontent.com/imrishuroy/Images/main/icons8-mysql-240.png" />
 <img align="left" alt="PostgresSQL" width="32px" src="https://raw.githubusercontent.com/imrishuroy/Images/main/icons8-postgresql-480.png" />
-<img align="left" alt="MongoDB" width="32px" src="https://raw.githubusercontent.com/imrishuroy/Images/main/mongodb.pngg" />
+<img align="left" alt="MongoDB" width="32px" src="https://raw.githubusercontent.com/imrishuroy/Images/main/mongodb.png" />
 
 <br />
 <br /> 
