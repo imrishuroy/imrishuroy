@@ -33,15 +33,25 @@
 <img align="left" alt="Android" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
 <img align="left" alt="iOS" width="32px" src="https://raw.githubusercontent.com/imrishuroy/Images/main/icons8-ios-480.png" />
 <img align="left" alt="Dart" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />
-<img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+
 
 <br /> 
 <br />
 
 <img align="left" alt="MySQL" width="38px" src="https://raw.githubusercontent.com/imrishuroy/Images/main/icons8-mysql-240.png" />
-<img align="left" alt="PostgresSQL" width="32px" src="https://raw.githubusercontent.com/imrishuroy/Images/main/icons8-postgresql-480.png" />
+<img align="left" alt="PostgresSQL" width="28px" src="https://raw.githubusercontent.com/imrishuroy/Images/main/icons8-postgresql-480.png" />
 <img align="left" alt="MongoDB" width="32px" src="https://raw.githubusercontent.com/imrishuroy/Images/main/mongodb.png" />
+
+<br />
+<br /> 
+
+<img align="left" alt="git" width="32px" src="https://raw.githubusercontent.com/imrishuroy/Images/main/icons8-git-480.png" />
+<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/imrishuroy/Images/main/icons8-github-480.png" />
+
+<br />
+<br /> 
+
+<img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 <br />
 <br /> 
