@@ -37,7 +37,8 @@
 <img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <br /> 
-<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/imrishuroy/Images/main/icons8-mysql-240.png" />
+<img align="right" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/imrishuroy/Images/main/icons8-mysql-240.png" />
+<img align="right" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/imrishuroy/Images/main/icons8-postgresql-480.png" />
 
 <br />
 <br /> 
