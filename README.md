@@ -51,6 +51,8 @@
 <img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Android Studio" width="32px" src="https://raw.githubusercontent.com/imrishuroy/Images/main/icons8-android-studio-480.png" />
 <img align="left" alt="Intellij Idea" width="32px" src="https://raw.githubusercontent.com/imrishuroy/Images/main/icons8-intellij-idea-480.png" />
+<img align="left" alt="Intellij Idea" width="32px" src="https://raw.githubusercontent.com/imrishuroy/Images/main/png-transparent-xcode-macos-bigsur-icon-thumbnail-removebg-preview.png" />
+
 
 
 <br />
