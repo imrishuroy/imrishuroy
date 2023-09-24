@@ -2,6 +2,9 @@
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/imrishuroy?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fimrishuroy&screen_name=imrishuroy)
+[![LeetCode Profile](https://img.shields.io/static/v1?label=LeetCode%20Profile&message=imrishuroy&color=1DA1F2&logo=leetcode&style=for-the-badge&link=https%3A%2F%2Fleetcode.com%2Fimrishuroy)](https://leetcode.com/imrishuroy)
+
+
 
 
 ## I'm a Learner, Developer, and Writer!!
