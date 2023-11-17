@@ -7,7 +7,7 @@
 
 
 
-## I'm a Learner, Developer, and Writer!!
+## I'm Learner, Developer, and a Writer!!
 
 
 - 🔭 Passionate about developing new technology.
