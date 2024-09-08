@@ -13,7 +13,7 @@
 - 🔭 Passionate about developing new technology.
 - 🌱 I’m currently learning everything 
 - 👯 Looking to write more articles on Medium.
-- 🥅 2023 Goals: Contribute more to Open Source projects.
+- 🥅 2024 Goals: Contribute more to Open Source projects.
 - 🎵 I love to listen to music.
 - 💬 Let's talk about Flutter or any tech-related stuff.
 
