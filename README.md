@@ -7,7 +7,7 @@
 
 
 
-## I'm Learner, Developer, and a Writer!!
+## I'm a Learner, Developer, and Writer!!
 
 
 - 🔭 Passionate about developing new technology.
@@ -15,7 +15,7 @@
 - 👯 Looking to write more articles on Medium.
 - 🥅 2024 Goals: Contribute more to Open Source projects.
 - 🎵 I love to listen to music.
-- 💬 Let's talk about Flutter or any tech-related stuff.
+- 💬 Let's talk about anything Tech.
 
 ### Connect with me:
 
