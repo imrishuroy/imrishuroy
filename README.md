@@ -10,18 +10,21 @@
 ## I'm a Learner, Developer, and Writer!!
 
 
-- 🔭 Passionate about developing new technology.
+- 🔭 ‬I‬‭ am‬‭ a‬‭ passionate‬‭ problem‬‭ solver,‬‭ always‬‭ eager‬‭ to‬‭ learn‬‭ and‬‭ help my‬‭ peers
 - 🌱 I’m currently learning everything 
-- 👯 Looking to write more articles on Medium.
-- 🥅 2024 Goals: Contribute more to Open Source projects.
-- 🎵 I love to listen to music.
-- 💬 Let's talk about anything Tech.
+- 👯 Looking to write more articles on Medium
+- 🥅 2024 Goals: Contribute more to Open Source projects
+- 🎵 Love to listen to music
+- 💬 Let's talk about anything Tech
 
 ### Connect with me:
 
 
-[<img align="left" alt="imrishuroy | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="imrishuroy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[<img align="left" alt="imrishuroy | Twitter" width="22px" src="https://raw.githubusercontent.com/imrishuroy/Images/refs/heads/main/twitter.png" />][twitter]
+[<img align="left" alt="imrishuroy | LinkedIn" width="22px" src="https://raw.githubusercontent.com/imrishuroy/Images/refs/heads/main/linkedin.png" />][linkedin]
+
+
 
 
 <br>
@@ -29,6 +32,7 @@
 
 ### Languages and Tools:
 
+<img align="left" alt="Flutter" width="32px" src="https://img.icons8.com/?size=512&id=44442&format=png" />
 <img align="left" alt="Flutter" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
 <img align="left" alt="Android" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
 <img align="left" alt="iOS" width="32px" src="https://raw.githubusercontent.com/imrishuroy/Images/main/icons8-ios-480.png" />
