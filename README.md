@@ -13,7 +13,7 @@
 - 🔭 ‬I‬‭ am‬‭ a‬‭ passionate‬‭ problem‬‭ solver,‬‭ always‬‭ eager‬‭ to‬‭ learn‬‭ and‬‭ help my‬‭ peers
 - 🌱 I’m currently learning everything 
 - 👯 Looking to write more articles on Medium
-- 🥅 2024 Goals: Contribute more to Open Source projects
+- 🥅 2025 Goals: Contribute more to Open Source projects
 - 🎵 Love to listen to music
 - 💬 Let's talk about anything Tech
 
