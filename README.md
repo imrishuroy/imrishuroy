@@ -1,3 +1,5 @@
+![matrix](https://raw.githubusercontent.com/appcypher/appcypher/main/matrix.svg)
+
 ### Hi there, I'm Rishu👋
 
 
@@ -11,7 +13,7 @@
 
 
 - 🔭 ‬I‬‭ am‬‭ a‬‭ passionate‬‭ problem‬‭ solver,‬‭ always‬‭ eager‬‭ to‬‭ learn‬‭ and‬‭ help my‬‭ peers
-- 🌱 I’m currently learning everything 
+- ⚙️ Building scalable backend systems in Go & Java, crafting seamless mobile experiences with Flutter, and deploying cloud-native solutions on AWS, Docker & Kubernetes 
 - 👯 Looking to write more articles on Medium
 - 🥅 2025 Goals: Contribute more to Open Source projects
 - 🎵 Love to listen to music
